@@ -73,6 +73,7 @@ header nav a:hover {
   font-weight: 600;
   text-shadow: 2px 2px 10px black;
   font-family: "Inter";
+  text-transform: uppercase;
 }
 
 .welcome-text p {
